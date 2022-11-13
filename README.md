@@ -14,7 +14,7 @@ take care of the situation.
 
 # Solution
 
-# Digio App
+# Uni-Vit App
 
 # Tech-Stack
 Volley API 
