@@ -48,7 +48,6 @@ Chat System helps the students and the respected faculty to be connected at all 
 
 # Sceernshots & Working Model
 
-# Dependencies
 
 # Outcome
 Digio Application makes the work easier for the students, workers, faculty and shop owners.
