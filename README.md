@@ -26,7 +26,7 @@ Python
 Heruko
 Picasso
 
-# Features of Digio 
+# Features of Uni-Vit
 ## 1. Lost & Found
 This is a feature uploaded in the app which helps the students to find their lost items.
 
